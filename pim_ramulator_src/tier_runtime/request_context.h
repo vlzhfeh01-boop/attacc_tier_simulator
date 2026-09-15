@@ -1,3 +1,7 @@
+/* 
+Request Context : 여러 토큰과 수많음 PIM 명령을 포함하는 하나의 LLM 요청
+이 요청이 어떤 채널을 사용하는지 기록
+*/
 #ifndef RAMULATOR_TIER_RUNTIME_REQUEST_CONTEXT_H
 #define RAMULATOR_TIER_RUNTIME_REQUEST_CONTEXT_H
 
